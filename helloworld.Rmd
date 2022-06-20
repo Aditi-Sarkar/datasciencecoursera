@@ -1,0 +1,11 @@
+---
+title: "First R Markdown"
+author: "Aditi Sarkar"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+
+## This is a markdown file
+
+R Markdown file for my assignment!
